@@ -59,7 +59,7 @@ npm run dev
 6. Verificar que esté funcionando en el navegador
 
 ```
-http://localhost:3000/health
+http://localhost:3000/status
 # Debería responder: {"status":"ok"...}
 ```
 
